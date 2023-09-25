@@ -1,2 +1,2 @@
 # React-demo
-This is my demo for react
+This is my demo for react.
